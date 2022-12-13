@@ -22255,6 +22255,7 @@ textarea.form-control-lg {
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 header {
@@ -22410,4 +22411,22 @@ button:nth-child(2):active {
   display: flex;
   justify-content: center;
   justify-content: space-evenly;
+}
+
+.clipboard {
+  margin-bottom: 10%;
+}
+
+.h1-clipboard {
+  display: flex;
+  margin-top: 10%;
+  justify-content: center;
+}
+
+.span-clipboard {
+  display: flex;
+  margin-top: 1%;
+  text-align: center;
+  justify-content: center;
+  opacity: 0.5;
 }
