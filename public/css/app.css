@@ -22319,7 +22319,7 @@ button:nth-child(2):active {
 }
 
 .keep-track {
-  margin-top: 17%;
+  margin-top: 20%;
 }
 
 .h2-keep {
@@ -22331,5 +22331,23 @@ button:nth-child(2):active {
   display: flex;
   justify-content: center;
   text-align: center;
+  opacity: 0.5;
+}
+
+.macs {
+  display: flex;
+  margin-top: 5%;
+}
+
+.text-mac {
+  margin-left: 10%;
+  margin-top: 1%;
+}
+
+.text-mac h3, .text-mac .h3 {
+  padding-top: 15%;
+}
+
+.text-mac span {
   opacity: 0.5;
 }

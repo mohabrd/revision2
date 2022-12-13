@@ -2,7 +2,6 @@ body {
     margin: 0;
     padding: 0;
 
-
 }
 
 header {
@@ -68,7 +67,7 @@ button:nth-child(2):active{
 }
 
 .keep-track {
-    margin-top: 17%;
+    margin-top: 20%;
 
 }
 
@@ -84,4 +83,24 @@ button:nth-child(2):active{
     text-align: center;
     opacity: 0.5;
 
+}
+
+.macs {
+    display: flex;
+    margin-top: 5%;
+}
+
+.text-mac {
+    margin-left: 10%;
+    margin-top: 1%;
+
+}
+
+.text-mac h3 {
+    padding-top: 15%;
+
+}
+
+.text-mac span {
+    opacity: 0.5;
 }
