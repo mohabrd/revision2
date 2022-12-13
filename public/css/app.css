@@ -22351,3 +22351,26 @@ button:nth-child(2):active {
 .text-mac span {
   opacity: 0.5;
 }
+
+.access {
+  margin-top: 10%;
+  margin-bottom: 1%;
+}
+
+.h2-access {
+  display: flex;
+  justify-content: center;
+}
+
+.span-access {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.img-access {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
