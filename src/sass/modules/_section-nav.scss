@@ -87,6 +87,7 @@ button:nth-child(2):active{
 .macs {
     display: flex;
     margin-top: 5%;
+    margin-left: 1%;
 }
 
 .text-mac {
@@ -106,8 +107,6 @@ button:nth-child(2):active{
 
 .access {
     margin-top: 10%;
-    margin-bottom: 1%;
-    
 }
 
 .h2-access {
@@ -127,5 +126,39 @@ button:nth-child(2):active{
     display: flex;
     justify-content: center;
     margin-top: 5%;
+
+}
+
+.supercharge {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    
+}
+
+.h2-supercharge {
+    display: flex;
+    justify-content: center;
+}
+
+.span-supercharge {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    opacity: 0.5;
+
+}
+
+.categorie-supercharge {
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5%;
+
+}
+
+.cate-super {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 
 }
