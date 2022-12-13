@@ -22317,3 +22317,19 @@ button:nth-child(2) {
 button:nth-child(2):active {
   background-color: #8796ff;
 }
+
+.keep-track {
+  margin-top: 17%;
+}
+
+.h2-keep {
+  display: flex;
+  justify-content: center;
+}
+
+.span-keep {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  opacity: 0.5;
+}
