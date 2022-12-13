@@ -22396,7 +22396,7 @@ button:nth-child(2):active {
 .categorie-supercharge {
   display: flex;
   justify-content: center;
-  margin-top: 2.5%;
+  align-items: center;
 }
 
 .cate-super {
@@ -22404,6 +22404,12 @@ button:nth-child(2):active {
   flex-direction: column;
   align-items: center;
   text-align: center;
+}
+
+.categories {
+  margin-top: 2.5%;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .logos {
